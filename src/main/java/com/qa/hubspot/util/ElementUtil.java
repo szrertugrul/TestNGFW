@@ -12,7 +12,7 @@ import com.qa.hubspot.base.BasePage;
 
 /**
  * 
- * @author bobit
+ * @author szrertugrul
  *
  */
 
